@@ -8,5 +8,5 @@ My Portfolio Site: https://myr-g.github.io
 
 ## What I'm Up To
 - Building out my portfolio
-- Expanding my creative writing app
 - Exploring SWE & game dev opportunities
+- Working on a new language study tool!
