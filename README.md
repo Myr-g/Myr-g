@@ -5,8 +5,10 @@ I’m a developer who likes to build games, tools, and other stuff  — really a
 I’m currently looking for opportunities in software engineering or game development/design where I can learn some new things and continue to grow as a developer, feel free to reach out!
 
 My Portfolio Site: https://myr-g.github.io
+Mora: https://myr-g.github.io/Mora/
 
 ## What I'm Up To
 - Building out my portfolio
 - Exploring SWE & game dev opportunities
-- Working on a new language study tool!
+- Steadily designing future updates for Mora
+- Drafting the design for my next project, an art study tool!
